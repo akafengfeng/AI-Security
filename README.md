@@ -10,4 +10,4 @@
 
 * 2018, ACM CCS,[LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
 
-~~Add more papers to this link soon.// Update this site every week~~ 
+~~Add more papers to this link soon. Update this site every week~~ 
