@@ -10,4 +10,8 @@
 
 * 2018, ACM CCS,[LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
 
+* 2014, AAAI,[Efficient Generalized Fused Lasso and its Application to the Diagnosis of Alzheimer's Disease.](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8261/8862)
+
+* 2016, KDD,[“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
+* 1999, Biometrics,[Finite Mixture Modeling with Mixture Outcomes Using the EM Algorithm](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.0006-341X.1999.00463.x)
 ~~Add more papers to this link soon. Update this site every week~~ 
