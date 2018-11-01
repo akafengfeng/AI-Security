@@ -3,7 +3,7 @@
 
 **Intrusion Detection Systems**
  
-
+* 2018, NDSS,[Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://arxiv.org/pdf/1802.09089.pdf)
 
 **Deep Learning**
 
