@@ -23,7 +23,6 @@
 * 2018, arXiv, [Sequence Aggregation Rules for Anomaly Detection in Computer Network Traffic](https://arxiv.org/pdf/1805.03735.pdf)
 * 2017, ACM SIGSAC, [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](http://delivery.acm.org/10.1145/3140000/3134015/p1285-du.pdf?ip=198.21.198.2&id=3134015&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1541191598_39fba667fde10a4b4258ccec31a77f1c)
 * 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
-
 * 2018, CCS, [Tiresias: Predicting Security Events Through Deep Learning](https://seclab.bu.edu/people/gianluca/papers/tiresias-ccs2018.pdf)
 * 2018, RAID, [Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00470-5_26.pdf)
 
@@ -61,4 +60,4 @@
 * 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
 
 
-~~Add more papers to this link soon. Update this site every week~~ 
+~~Update this site every week~~ 
