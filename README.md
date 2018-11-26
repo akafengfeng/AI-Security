@@ -84,7 +84,7 @@
 * 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
 * 2018, arXiv, [AutoBotCatcher: Blockchain-based P2P Botnet Detection for the Internet of Things](https://arxiv.org/pdf/1809.10775.pdf)
 * 2017, Milcom, [The Mirai Botnet and the IoT Zombie Armies](https://cs.gmu.edu/~astavrou/research/TheMiraiBotnetandtheIoTZombieArmies.pdf)
-* 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage])(http://www.cs.umd.edu/projects/droot/botnet.pdf)
+* 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
 
 **Others**
 
