@@ -62,6 +62,24 @@
 **Botnet**
 
 **Interpretable Deep Learning**
+* 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
+* 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
+* 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/nips18.pdf)
+* 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
+
+**List**
+
+* 2018, arXiv, [Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations](https://arxiv.org/abs/1807.01697)
+* 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/nips18.pdf)
+* 2017, NIPS, [A Unified Approach to Interpreting Model Predictions](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
+* 2018, AAAI, [Anchors: High-Precision Model-Agnostic Explanations](https://pdfs.semanticscholar.org/1c66/90ab404b23d5026dd3ad0c7a49ce2875c1b3.pdf)
+* 2018, arXiv, [DÏoT: A Self-learning System for Detecting Compromised IoT Devices](https://arxiv.org/pdf/1804.07474.pdf)
+* 2018, arXiv, [IoT-KEEPER: Securing IoT Communications in Edge Networks](https://arxiv.org/pdf/1810.08415.pdf)
+* 2017, arXiv, [Deep Reinforcement Learning that Matters](https://arxiv.org/pdf/1709.06560.pdf)
+* 2017, arXiv, [Real-time IoT Device Activity Detection in Edge Networks](http://homepage.tudelft.nl/8e79t/files/pre-nss2018.pdf)
+* 2018, arXiv, [Peek-a-Boo: I see your smart home activities, even encrypted!](https://arxiv.org/pdf/1808.02741.pdf)
+* 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
+* 2018, S&P, [AI^2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418593&tag=1)
 
 **Others**
 
