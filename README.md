@@ -50,7 +50,6 @@
 * 2016, S&P, [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7546524)
 * 2018, arXiv, [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
 * 2018, arXiv, [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/pdf/1801.01944.pdf)
-
 * 2015, arXiv, [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)
 * 2016, arXiv, [Adversarial Perturbations Against Deep Neural Networks for Malware Classification](https://arxiv.org/pdf/1606.04435.pdf)
 * 2016, USENIX, [Hidden Voice Commands](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf)
