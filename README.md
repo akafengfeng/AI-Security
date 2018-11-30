@@ -86,6 +86,7 @@
 * 2018, arXiv, [AutoBotCatcher: Blockchain-based P2P Botnet Detection for the Internet of Things](https://arxiv.org/pdf/1809.10775.pdf)
 * 2017, Milcom, [The Mirai Botnet and the IoT Zombie Armies](https://cs.gmu.edu/~astavrou/research/TheMiraiBotnetandtheIoTZombieArmies.pdf)
 * 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
+* 2019, S&P, [DEEPSEC: A Uniform Platform for Security Analysis of Deep Learning Model](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666000a381.pdf)
 
 **Others**
 
