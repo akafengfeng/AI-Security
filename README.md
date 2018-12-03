@@ -87,6 +87,8 @@
 * 2017, Milcom, [The Mirai Botnet and the IoT Zombie Armies](https://cs.gmu.edu/~astavrou/research/TheMiraiBotnetandtheIoTZombieArmies.pdf)
 * 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
 * 2019, S&P, [DEEPSEC: A Uniform Platform for Security Analysis of Deep Learning Model](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666000a381.pdf)
+* 2018, WWW, [DRN: A Deep Reinforcement Learning Framework for News Recommendation](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
+* 2018, ICDM, [A Reinforcement Learning Framework for Explainable Recommendation](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/main.pdf)
 
 **Others**
 
