@@ -80,7 +80,7 @@
 * 2017, arXiv, [Real-time IoT Device Activity Detection in Edge Networks](http://homepage.tudelft.nl/8e79t/files/pre-nss2018.pdf)
 * 2018, arXiv, [Peek-a-Boo: I see your smart home activities, even encrypted!](https://arxiv.org/pdf/1808.02741.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
-* 2018, S&P, [AI^2 : Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418593&tag=1)
+* 2018, S&P, [A$$I^2$$: Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418593&tag=1)
 * 2016, NJCCIC, [Hajime: Analysis of a decentralized internet worm for IoT devices](https://security.rapiditynetworks.com/publications/2016-10-16/hajime.pdf)
 * 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
 * 2018, arXiv, [AutoBotCatcher: Blockchain-based P2P Botnet Detection for the Internet of Things](https://arxiv.org/pdf/1809.10775.pdf)
