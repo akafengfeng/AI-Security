@@ -24,6 +24,8 @@
 * 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
 * 2018, CCS, [Tiresias: Predicting Security Events Through Deep Learning](https://seclab.bu.edu/people/gianluca/papers/tiresias-ccs2018.pdf)
 * 2018, RAID, [Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00470-5_26.pdf)
+* 2018, IEEE Access, [Deep Learning-Based Intrusion Detection With Adversaries](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8408779)
+
 
 **Deep Learning**
 
