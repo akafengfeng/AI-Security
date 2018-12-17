@@ -2,7 +2,7 @@
 ***This is a  paper reading list about Machine Learning for IDS***
 
 **Intrusion Detection Systems**
-
+* 2018, Ph.D. Thesis, [Flow-based Anomaly Detection in High-Speed Networks](https://research-repository.griffith.edu.au/bitstream/handle/10072/367890/Jadidi_2016_01Thesis.pdf?sequence=1)
 * 2010, S&P,[Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504793)
 * 2018, NDSS, [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://arxiv.org/pdf/1802.09089.pdf)
 * 2018, IEEE Pervasive Computing [N-BaIoT: Network-based Detection of IoT Botnet Attacks Using Deep Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490192)
@@ -58,14 +58,34 @@
 * 2016, USENIX, [Hidden Voice Commands](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf)
 
 
-**Malwares and Attacks**
-* 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
+**RNN IDS**
+* 2018, M.S. Thesis, [Recurrent Neural Network Architectures Toward Intrusion Detection](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7745&context=etd)
+* 2018, IEEE ICACI, [A network threat analysis method combined with kernel PCA and LSTM-RNN](https://ieeexplore.ieee.org/abstract/document/8377511)
+* 2018, IEEE DSC, [An Intelligent Network Attack Detection Method Based on RNN](https://ieeexplore.ieee.org/abstract/document/8411899)
+* 2018, IEEE CCECE, [Comparison of Recurrent Neural Network Algorithms for Intrusion Detection Based on Predicting Packet Sequences](https://ieeexplore.ieee.org/abstract/document/8447793)
+* 2018, IEEE Communications Magazine, [Leveraging LSTM Networks for Attack Detection in Fog-to-Things Communications](https://ieeexplore.ieee.org/abstract/document/8466367)
+* 2018, IEEE Access, [An Intrusion Detection System Using a Deep Neural Network With Gated Recurrent Units](https://ieeexplore.ieee.org/abstract/document/8449272)
+* 2018, JISCR, [Automatic Intrusion Detection System Using Deep Recurrent Neural Network Paradigm](https://journals.nauss.edu.sa/index.php/JISCR/article/viewFile/454/462)
+* 2018, ICONIP, [A Semantic Parsing Based LSTM Model for Intrusion Detection](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_53)
+* 2018, ICCCS, [Comparative Study of CNN and RNN for Deep Learning Based Intrusion Detection System](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00018-9_15.pdf)
+* 2018, NetSoft, [Deep Recurrent Neural Network for Intrusion Detection in SDN-based Networks](http://eprints.whiterose.ac.uk/129091/1/NetSoft_ShortPaper.pdf)
+* 2018, SoutheastCon, [Applying Long Short-Term Memory Recurrent Neural Network for Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/8478898)
+* 2018, ECML PKDD, [Malware Detection by Analysing Encrypted Network Traffic with Neural Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-319-71246-8_5.pdf)
+* 2017, IEEE SPW, [Malware Detection by Analysing Network Traffic with Neural Networks](https://www.computer.org/csdl/proceedings/spw/2017/1968/00/1968a205-abs.html)
+* 2017, IEEE Access, [A Deep Learning Approach for Intrusion Detection Using Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/8066291)
+* 2017, arXiv, [Network Traffic Anomaly Detection Using Recurrent Neural Networks](https://arxiv.org/abs/1803.10769)
+* 2017, Researchgate, [Evaluation of Recurrent Neural Network and its Variants for Intrusion Detection System (IDS)](https://www.researchgate.net/publication/324486490_Evaluation_of_Recurrent_Neural_Network_and_its_Variants_for_Intrusion_Detection_System_IDS)
+* 2017, M.S. Thesis, [DEEP LEARNING APPROACH FOR INTRUSION DETECTION SYSTEM (IDS) IN THE INTERNET OF THINGS (IOT) NETWORK USING GATED RECURRENT NEURAL NETWORKS (GRU)](https://etd.ohiolink.edu/!etd.send_file?accession=wright1503680452498351&disposition=inline)
+* 2016, PlatCon, [Long Short Term Memory Recurrent Neural Network Classifier for Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/7456805)
+* 2016, FDSE, [Collective Anomaly Detection Based on Long Short-Term Memory Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-48057-2_9)
+* 2015, ICASSP, [Malware classification with recurrent networks](https://ieeexplore.ieee.org/abstract/document/7178304)
+* 2015, WISA, [Applying Recurrent Neural Network to Intrusion Detection with Hessian Free Optimization](https://www.researchgate.net/profile/Jihyun_Kim24/publication/309092742_Applying_Recurrent_Neural_Network_to_Intrusion_Detection_with_Hessian_Free_Optimization/links/59ba3f7c458515bb9c4aa1bf/Applying-Recurrent-Neural-Network-to-Intrusion-Detection-with-Hessian-Free-Optimization.pdf)
+* 2015, South African Computer Journal, [Applying long short-term memory recurrent neural networks to intrusion detection](http://sacj.cs.uct.ac.za/index.php/sacj/article/viewFile/248/150)
+* 2014, ICTACT Journal on Soft Computing, [PERFORMANCE COMPARISON FOR INTRUSION DETECTION SYSTEM USING NEURAL NETWORK WITH KDD DATASET](http://ictactjournals.in/paper/IJSC_V4_I3_Paper_3-743to752.pdf)
+* 2013, SAICSIT, [Evaluating performance of long short-term memory recurrent neural networks on intrusion detection data](https://dl.acm.org/citation.cfm?id=2513490)
+* 2012, Neural Computing and Applications, [Intrusion detection using reduced-size RNN based on feature grouping](https://link.springer.com/article/10.1007/s00521-010-0487-0)
 
 
-**Botnet**
-* 2018, USENIX Security, [BlackIoT: IoT Botnet of High Wattage Devices Can Disrupt the Power Grid](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-soltan.pdf)
-* 2017, USENIX Security, [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf?_gclid=5b024b3b7304f5.75584304-5b024b3b730553.60141230&_utm_source=xakep&_utm_campaign=mention135460&_utm_medium=inline&_utm_content=lnk681856874400)
-* 2016, Rapidity Networks, [Hajime: Analysis of a decentralized internet worm for IoT devices](http://www.cs.umd.edu/class/fall2017/cmsc818O/papers/hajime-rapidity.pdf)
 
 **Interpretable Deep Learning**
 
@@ -97,6 +117,16 @@
 * 2018, ICDM, [A Reinforcement Learning Framework for Explainable Recommendation](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/main.pdf)
 * 2018, arXiv, [Adversarial Training Towards Robust Multimedia Recommender System](https://arxiv.org/pdf/1809.07062.pdf)
 * 2018, arXiv, [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf)
+
+
+**Malwares and Attacks**
+* 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
+
+
+**Botnet**
+* 2018, USENIX Security, [BlackIoT: IoT Botnet of High Wattage Devices Can Disrupt the Power Grid](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-soltan.pdf)
+* 2017, USENIX Security, [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf?_gclid=5b024b3b7304f5.75584304-5b024b3b730553.60141230&_utm_source=xakep&_utm_campaign=mention135460&_utm_medium=inline&_utm_content=lnk681856874400)
+* 2016, Rapidity Networks, [Hajime: Analysis of a decentralized internet worm for IoT devices](http://www.cs.umd.edu/class/fall2017/cmsc818O/papers/hajime-rapidity.pdf)
 
 **Others**
 
