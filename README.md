@@ -7,14 +7,14 @@
 * 2010, S&P,[Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504793)
 * 2018, NDSS, [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://arxiv.org/pdf/1802.09089.pdf)
 * 2018, IEEE Pervasive Computing [N-BaIoT: Network-based Detection of IoT Botnet Attacks Using Deep Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490192)
-* 2015, ACM CSUR[Evaluating Computer Intrusion Detection Systems: A Survey of Common Practices](http://delivery.acm.org/10.1145/2810000/2808691/a12-milenkoski.pdf?ip=198.21.198.2&id=2808691&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1541188429_db4cbaa780f08fdefb0b08e67043a60e)
+* 2015, ACM CSUR, [Evaluating Computer Intrusion Detection Systems: A Survey of Common Practices](http://delivery.acm.org/10.1145/2810000/2808691/a12-milenkoski.pdf?ip=198.21.198.2&id=2808691&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1541188429_db4cbaa780f08fdefb0b08e67043a60e)
 * 2017, Computer Networks, [Toward a reliable anomaly-based intrusion detection in real-world environments](https://www.sciencedirect.com/science/article/pii/S1389128617303225)
 * 2012, Computer Communications, [Unsupervised Network Intrusion Detection Systems: Detecting the Unknown without Knowledge](https://www.sciencedirect.com/science/article/pii/S0140366412000266)
 * 2013, Information Science, [Adversarial Attacks against Intrusion Detection Systems: Taxonomy, Solutions and Open Issues](https://www.sciencedirect.com/science/article/pii/S0020025513002119)
 * 2018, IEEE SPW, [Bringing a GAN to a Knife-fight: Adapting Malware Communication to Avoid Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8424635)
 * 2017, SISY, [Evaluation of Machine Learning Algorithms for Intrusion Detection System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8080566)
 * 2018, arXiv, [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159.pdf)
-* 2005, the third annual conference on privacy, security and trust [Selecting Features for Intrusion Detection: A Feature Relevance Analysis on KDD 99 Intrusion Detection Datasets](https://pdfs.semanticscholar.org/1d6e/a73b6e08ed9913d3aad924f7d7ced4477589.pdf)
+* 2005, the third annual conference on privacy, security and trust, [Selecting Features for Intrusion Detection: A Feature Relevance Analysis on KDD 99 Intrusion Detection Datasets](https://pdfs.semanticscholar.org/1d6e/a73b6e08ed9913d3aad924f7d7ced4477589.pdf)
 * 2017, Cluset Computing, [A survey of deep learning-based network anomaly detection](https://link.springer.com/content/pdf/10.1007/s10586-017-1117-8.pdf)
 * 2017, ACM SIGCOMM, [Knowledge-Defined Networking](http://delivery.acm.org/10.1145/3140000/3138810/acmdl17-92.pdf?ip=198.21.198.2&id=3138810&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1541190558_5dee8d31ffbd6636f0fba47f620ebfaf)
 * 2017, IEEE Communications Surveys, [State-of-the-Art Deep Learning: Evolving Machine Intelligence Toward Tomorrow’s Intelligent Network Traffic Control Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7932863)
@@ -22,8 +22,8 @@
 * 2006, S&P, [A Framework for the Evaluation of Intrusion Detection Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1624001)
 * 2018, arXiv, [Sequence Aggregation Rules for Anomaly Detection in Computer Network Traffic](https://arxiv.org/pdf/1805.03735.pdf)
 * 2017, ACM SIGSAC, [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](http://delivery.acm.org/10.1145/3140000/3134015/p1285-du.pdf?ip=198.21.198.2&id=3134015&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1541191598_39fba667fde10a4b4258ccec31a77f1c)
-* 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
-* 2018, CCS, [Tiresias: Predicting Security Events Through Deep Learning](https://seclab.bu.edu/people/gianluca/papers/tiresias-ccs2018.pdf)
+
+
 * 2018, RAID, [Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00470-5_26.pdf)
 * 2018, IEEE Access, [Deep Learning-Based Intrusion Detection With Adversaries](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8408779)
 * 2018 CIKM, [Collaborative Alert Ranking for Anomaly Detection](https://dl.acm.org/citation.cfm?id=3272013)
@@ -31,8 +31,7 @@
 
 # Deep Learning
 
-* 2018, ACM HPDC, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/abs/1803.04967)
-* 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
+
 * 2014, AAAI, [Efficient Generalized Fused Lasso and its Application to the Diagnosis of Alzheimer's Disease.](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8261/8862)
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 * 1999, Biometrics, [Finite Mixture Modeling with Mixture Outcomes Using the EM Algorithm](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.0006-341X.1999.00463.x)
@@ -60,6 +59,7 @@
 
 
 # RNN IDS
+* 2018, CCS, [Tiresias: Predicting Security Events Through Deep Learning](https://seclab.bu.edu/people/gianluca/papers/tiresias-ccs2018.pdf)
 * 2018, M.S. Thesis, [Recurrent Neural Network Architectures Toward Intrusion Detection](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7745&context=etd)
 * 2018, IEEE ICACI, [A network threat analysis method combined with kernel PCA and LSTM-RNN](https://ieeexplore.ieee.org/abstract/document/8377511)
 * 2018, IEEE DSC, [An Intelligent Network Attack Detection Method Based on RNN](https://ieeexplore.ieee.org/abstract/document/8411899)
@@ -87,13 +87,18 @@
 * 2012, Neural Computing and Applications, [Intrusion detection using reduced-size RNN based on feature grouping](https://link.springer.com/article/10.1007/s00521-010-0487-0)
 
 
+# Interpretation/Explanation of RNN
 
-# Interpretable Deep Learning
-
+* 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
+
+
+# General Interpretation/Explanation
+
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
-* 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/nips18.pdf)
+* 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://papers.nips.cc/paper/7703-explaining-deep-learning-models-a-bayesian-non-parametric-approach.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
+
 
 # List
 
