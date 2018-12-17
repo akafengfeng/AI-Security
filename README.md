@@ -57,12 +57,15 @@
 * 2016, arXiv, [Adversarial Perturbations Against Deep Neural Networks for Malware Classification](https://arxiv.org/pdf/1606.04435.pdf)
 * 2016, USENIX, [Hidden Voice Commands](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf)
 
-**Malwares and Attacks**
 
-* 2017, USENIX Security, [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf?_gclid=5b024b3b7304f5.75584304-5b024b3b730553.60141230&_utm_source=xakep&_utm_campaign=mention135460&_utm_medium=inline&_utm_content=lnk681856874400)
+**Malwares and Attacks**
 * 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
 
+
 **Botnet**
+* 2018, USENIX Security, [BlackIoT: IoT Botnet of High Wattage Devices Can Disrupt the Power Grid](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-soltan.pdf)
+* 2017, USENIX Security, [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf?_gclid=5b024b3b7304f5.75584304-5b024b3b730553.60141230&_utm_source=xakep&_utm_campaign=mention135460&_utm_medium=inline&_utm_content=lnk681856874400)
+* 2016, Rapidity Networks, [Hajime: Analysis of a decentralized internet worm for IoT devices](http://www.cs.umd.edu/class/fall2017/cmsc818O/papers/hajime-rapidity.pdf)
 
 **Interpretable Deep Learning**
 
