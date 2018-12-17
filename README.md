@@ -1,7 +1,8 @@
 # Machine-Learning-for-IDS
 ***This is a  paper reading list about Machine Learning for IDS***
 
-**Intrusion Detection Systems**
+# Intrusion Detection Systems
+
 * 2018, Ph.D. Thesis, [Flow-based Anomaly Detection in High-Speed Networks](https://research-repository.griffith.edu.au/bitstream/handle/10072/367890/Jadidi_2016_01Thesis.pdf?sequence=1)
 * 2010, S&P,[Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504793)
 * 2018, NDSS, [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://arxiv.org/pdf/1802.09089.pdf)
@@ -28,7 +29,7 @@
 * 2018 CIKM, [Collaborative Alert Ranking for Anomaly Detection](https://dl.acm.org/citation.cfm?id=3272013)
 
 
-**Deep Learning**
+# Deep Learning
 
 * 2018, ACM HPDC, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/abs/1803.04967)
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
@@ -39,7 +40,7 @@
 * 2016, NIPS, [Linear Feature Encoding for Reinforcement Learning](http://papers.nips.cc/paper/6305-linear-feature-encoding-for-reinforcement-learning.pdf)
 * 2017, 55th Annual Meeting of the Association for Computational Linguistics, [Visualizing and Understanding Neural Machine Translation](http://www.aclweb.org/anthology/P17-1106)
 
-**Adversarial Examples**
+# Adversarial Examples
 
 * 2014, Nips, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 * 2018, arXiv, [Threat of adversarial attacks on deep learning in computer vision: A survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186)
@@ -58,7 +59,7 @@
 * 2016, USENIX, [Hidden Voice Commands](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf)
 
 
-**RNN IDS**
+# RNN IDS
 * 2018, M.S. Thesis, [Recurrent Neural Network Architectures Toward Intrusion Detection](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7745&context=etd)
 * 2018, IEEE ICACI, [A network threat analysis method combined with kernel PCA and LSTM-RNN](https://ieeexplore.ieee.org/abstract/document/8377511)
 * 2018, IEEE DSC, [An Intelligent Network Attack Detection Method Based on RNN](https://ieeexplore.ieee.org/abstract/document/8411899)
@@ -87,14 +88,14 @@
 
 
 
-**Interpretable Deep Learning**
+# Interpretable Deep Learning
 
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 * 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/nips18.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 
-**List**
+# List
 
 * 2018, arXiv, [Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations](https://arxiv.org/abs/1807.01697)
 * 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/nips18.pdf)
@@ -119,15 +120,12 @@
 * 2018, arXiv, [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf)
 
 
-**Malwares and Attacks**
+# Malwares and Attacks
 * 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
 
 
-**Botnet**
+# Botnet
 * 2018, USENIX Security, [BlackIoT: IoT Botnet of High Wattage Devices Can Disrupt the Power Grid](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-soltan.pdf)
 * 2017, USENIX Security, [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf?_gclid=5b024b3b7304f5.75584304-5b024b3b730553.60141230&_utm_source=xakep&_utm_campaign=mention135460&_utm_medium=inline&_utm_content=lnk681856874400)
 * 2016, Rapidity Networks, [Hajime: Analysis of a decentralized internet worm for IoT devices](http://www.cs.umd.edu/class/fall2017/cmsc818O/papers/hajime-rapidity.pdf)
 
-**Others**
-
-~~Update this site every week~~ 
