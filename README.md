@@ -1,5 +1,4 @@
-# Machine-Learning-for-IDS
-***This is a  paper reading list about Machine Learning for IDS***
+# AI for Security
 
 # Intrusion Detection Systems
 
