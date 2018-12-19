@@ -93,7 +93,6 @@
 
 
 ## General Interpretation/Explanation
-* 2018, NeurIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/neurips18.pdf)
 * 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://papers.nips.cc/paper/7703-explaining-deep-learning-models-a-bayesian-non-parametric-approach.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * 2018, DEFCON Chian, [Scrutinizing the Weakness and Strength of AI System](https://aivillage.org/material/cn18-guo/slides1.pdf)
