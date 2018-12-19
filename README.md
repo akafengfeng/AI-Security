@@ -86,12 +86,6 @@
 * 2012, Neural Computing and Applications, [Intrusion detection using reduced-size RNN based on feature grouping](https://link.springer.com/article/10.1007/s00521-010-0487-0)
 
 
-## Interpretation/Explanation of RNN
-
-* 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
-* 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
-
-
 ## General Interpretation/Explanation
 * 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://papers.nips.cc/paper/7703-explaining-deep-learning-models-a-bayesian-non-parametric-approach.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
@@ -99,8 +93,16 @@
 * 2018, DEFCON USA, [Explanation: Alternative Path to Secure Deep Learning System](http://www.personal.psu.edu/wzg13/talks/defcon_usa_18.pdf) 
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 
+
+## Interpretation/Explanation of RNN
+
+* 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
+* 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
+
+
 ## Interpretation/Explanation of Recommendation System
-* 2019, ACM Transactions on Information Systems, [MMALFM: Explainable Recommendation by Leveraging Reviews and Images](https://arxiv.org/pdf/1811.05318.pdf) (need update)
+
+* 2019, ACM TOIS, [MMALFM: Explainable Recommendation by Leveraging Reviews and Images](https://arxiv.org/pdf/1811.05318.pdf) (need update)
 * 2018, arXiv, [Visually Explainable Recommendation](https://arxiv.org/pdf/1801.10288.pdf)
 * 2018, arXiv, [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf)
 * 2016, SIGIR, [Learning to Rank Features for Recommendation
