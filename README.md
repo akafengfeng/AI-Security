@@ -99,6 +99,13 @@
 * 2018, DEFCON USA, [Explanation: Alternative Path to Secure Deep Learning System](http://www.personal.psu.edu/wzg13/talks/defcon_usa_18.pdf) 
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 
+## Interpretation/Explanation of Recommendation System
+* 2019, ACM Transactions on Information Systems, [MMALFM: Explainable Recommendation by Leveraging Reviews and Images](https://arxiv.org/pdf/1811.05318.pdf) (need update)
+* 2018, arXiv, [Visually Explainable Recommendation](https://arxiv.org/pdf/1801.10288.pdf)
+* 2018, arXiv, [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf)
+* 2016, SIGIR, [Learning to Rank Features for Recommendation
+over Multiple Categories](http://yongfeng.me/attach/sigir16-chen.pdf)
+
 
 
 ## List
