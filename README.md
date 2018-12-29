@@ -57,6 +57,9 @@
 * 2016, USENIX, [Hidden Voice Commands](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf)
 
 
+## Gernal DNN IDS
+* 2009, IEEE CISDA, [A Detailed Analysis of the KDD CPU 99 Data Set](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5356528) 
+
 ## RNN IDS
 * 2018, CCS, [Tiresias: Predicting Security Events Through Deep Learning](https://seclab.bu.edu/people/gianluca/papers/tiresias-ccs2018.pdf)
 * 2018, M.S. Thesis, [Recurrent Neural Network Architectures Toward Intrusion Detection](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7745&context=etd)
