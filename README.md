@@ -60,6 +60,7 @@
 ## Gernal DNN IDS
 * 2009, IEEE CISDA, [A Detailed Analysis of the KDD CPU 99 Data Set](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5356528) 
 
+
 ## RNN IDS
 * 2018, CCS, [Tiresias: Predicting Security Events Through Deep Learning](https://seclab.bu.edu/people/gianluca/papers/tiresias-ccs2018.pdf)
 * 2018, M.S. Thesis, [Recurrent Neural Network Architectures Toward Intrusion Detection](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7745&context=etd)
@@ -95,7 +96,12 @@
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * 2018, DEFCON Chian, [Scrutinizing the Weakness and Strength of AI System](https://aivillage.org/material/cn18-guo/slides1.pdf)
 * 2018, DEFCON USA, [Explanation: Alternative Path to Secure Deep Learning System](http://www.personal.psu.edu/wzg13/talks/defcon_usa_18.pdf) 
+* 2018, arXiv, [Explaining Explanations: An Approach to
+Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
+* 2018, IEEE Access, [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8466590)
+* 2018, arXiv, [On the Art and Science of Machine Learning Explanations A Discussion with Practical Recommendations and a Use Case](https://arxiv.org/pdf/1810.02909.pdf)
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
+
 
 
 ## Interpretation/Explanation of RNN
