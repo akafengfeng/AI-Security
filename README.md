@@ -1,5 +1,6 @@
 # AI for Security
 
+
 ## Intrusion Detection Systems
 
 * 2018, Ph.D. Thesis, [Flow-based Anomaly Detection in High-Speed Networks](https://research-repository.griffith.edu.au/bitstream/handle/10072/367890/Jadidi_2016_01Thesis.pdf?sequence=1)
@@ -103,6 +104,11 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 * 2018, IEEE CIC, [Next Generation Trustworthy Fraud Detection](https://ieeexplore.ieee.org/abstract/document/8537843)
 * 2018, IEEE CHI, [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](http://delivery.acm.org/10.1145/3180000/3174156/paper582.pdf?ip=130.127.49.160&id=3174156&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546271758_3370d5381418b42bf1df5f28fda722e2)
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
+
+
+## Interpretation/Explanation of CNN
+* 2018, IEEE CVPR, [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0490.pdf) 
+* 2018, ICCV, [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
 
 
 
