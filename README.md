@@ -102,7 +102,7 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 * 2018, IEEE Access, [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8466590)
 * 2018, arXiv, [On the Art and Science of Machine Learning Explanations A Discussion with Practical Recommendations and a Use Case](https://arxiv.org/pdf/1810.02909.pdf)
 * 2018, IEEE CIC, [Next Generation Trustworthy Fraud Detection](https://ieeexplore.ieee.org/abstract/document/8537843)
-* 2018, IEEE CHI, [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](http://delivery.acm.org/10.1145/3180000/3174156/paper582.pdf?ip=130.127.49.160&id=3174156&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546271758_3370d5381418b42bf1df5f28fda722e2)
+* 2018, IEEE CHI, [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](http://www.brianlim.net/wordpress/wp-content/uploads/2018/01/chi2018-intelligibility%20final.pdf)
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 
 
