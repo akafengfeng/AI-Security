@@ -114,8 +114,6 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 * 2018, ICCV, [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
 
 
-
-
 ## Interpretation/Explanation of RNN
 
 * 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
@@ -145,10 +143,10 @@ over Multiple Categories](http://yongfeng.me/attach/sigir16-chen.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * 2018, S&P, [AI^2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418593&tag=1)
 * 2016, NJCCIC, [Hajime: Analysis of a decentralized internet worm for IoT devices](https://security.rapiditynetworks.com/publications/2016-10-16/hajime.pdf)
-* 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
+* 2018, Unknow, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
 * 2018, arXiv, [AutoBotCatcher: Blockchain-based P2P Botnet Detection for the Internet of Things](https://arxiv.org/pdf/1809.10775.pdf)
 * 2017, Milcom, [The Mirai Botnet and the IoT Zombie Armies](https://cs.gmu.edu/~astavrou/research/TheMiraiBotnetandtheIoTZombieArmies.pdf)
-* 2018, Unkonw, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
+* 2018, Unknow, [Analyzing the Propagation of IoT Botnets from DNS Leakage](http://www.cs.umd.edu/projects/droot/botnet.pdf)
 * 2019, S&P, [DEEPSEC: A Uniform Platform for Security Analysis of Deep Learning Model](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666000a381.pdf)
 * 2018, WWW, [DRN: A Deep Reinforcement Learning Framework for News Recommendation](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
 * 2018, ICDM, [A Reinforcement Learning Framework for Explainable Recommendation](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/main.pdf)
