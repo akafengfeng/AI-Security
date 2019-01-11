@@ -108,8 +108,11 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 
 ## Interpretation/Explanation of CNN
 
+
+* 2019, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/neurips18.pdf)
 * 2018, IEEE CVPR, [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0490.pdf) 
 * 2018, ICCV, [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
+
 
 
 
@@ -117,7 +120,6 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 
 * 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
-
 
 ## Interpretation/Explanation of Recommendation System
 
