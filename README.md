@@ -103,7 +103,9 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 * 2018, arXiv, [On the Art and Science of Machine Learning Explanations A Discussion with Practical Recommendations and a Use Case](https://arxiv.org/pdf/1810.02909.pdf)
 * 2018, IEEE CIC, [Next Generation Trustworthy Fraud Detection](https://ieeexplore.ieee.org/abstract/document/8537843)
 * 2018, IEEE CHI, [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](http://www.brianlim.net/wordpress/wp-content/uploads/2018/01/chi2018-intelligibility%20final.pdf)
+* 2017, KDD, [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://dl.acm.org/citation.cfm?id=3098039)
 * 2016, KDD, [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
+* 2013, KDD, [Accurate Intelligible Models with Pairwise Interactions](http://yinlou.github.io/papers/lou-kdd13.pdf)
 
 
 ## Interpretation/Explanation of CNN
