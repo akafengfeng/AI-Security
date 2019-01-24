@@ -91,7 +91,13 @@
 * 2012, Neural Computing and Applications, [Intrusion detection using reduced-size RNN based on feature grouping](https://link.springer.com/article/10.1007/s00521-010-0487-0)
 
 
-## General Interpretation/Explanation
+
+## Interpretable Models
+* 2014, KDD, [Comprehensible Classification Models – a position paper](https://www.kdd.org/exploration_files/V15-01-01-Freitas.pdf)
+
+
+## General Interpretation/Explanation 
+
 * 2018, arXiv, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891.pdf)
 * 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://papers.nips.cc/paper/7703-explaining-deep-learning-models-a-bayesian-non-parametric-approach.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
@@ -114,6 +120,8 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 * 2019, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://www.personal.psu.edu/wzg13/publications/neurips18.pdf)
 * 2018, IEEE CVPR, [Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0490.pdf) 
 * 2018, ICCV, [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
+* 2016, CVPR, [Learning Deep Features for Discriminative Localization](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+* 2015, ICML, [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://proceedings.mlr.press/v37/xuc15.pdf)
 
 
 ## Interpretation/Explanation of RNN
