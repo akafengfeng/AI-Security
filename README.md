@@ -97,7 +97,7 @@
 
 
 ## General Interpretation/Explanation 
-
+* 2019, arXiv.[Learning Interpretable Models with Causal Guarantees](https://arxiv.org/pdf/1901.08576.pdf)
 * 2018, arXiv, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891.pdf)
 * 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://papers.nips.cc/paper/7703-explaining-deep-learning-models-a-bayesian-non-parametric-approach.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
@@ -107,6 +107,7 @@
 Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 * 2018, IEEE Access, [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8466590)
 * 2018, arXiv, [On the Art and Science of Machine Learning Explanations A Discussion with Practical Recommendations and a Use Case](https://arxiv.org/pdf/1810.02909.pdf)
+* 2018, arXiv.[Verifiable Reinforcement Learning via Policy Extraction](https://papers.nips.cc/paper/7516-verifiable-reinforcement-learning-via-policy-extraction.pdf)
 * 2018, IEEE CIC, [Next Generation Trustworthy Fraud Detection](https://ieeexplore.ieee.org/abstract/document/8537843)
 * 2018, IEEE CHI, [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](http://www.brianlim.net/wordpress/wp-content/uploads/2018/01/chi2018-intelligibility%20final.pdf)
 * 2017, KDD, [Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking](https://dl.acm.org/citation.cfm?id=3098039)
@@ -137,7 +138,9 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 * 2016, SIGIR, [Learning to Rank Features for Recommendation
 over Multiple Categories](http://yongfeng.me/attach/sigir16-chen.pdf)
 
+## Interpretation/Explanation of Networks
 
+* 2018, arXiv, [Demystifying Deep Learning in Networking](https://people.cs.uchicago.edu/~junchenj/docs/DnnVisualizationAPNet_CameraReady.pdf)
 
 ## List
 
