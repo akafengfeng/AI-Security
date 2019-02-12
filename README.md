@@ -165,7 +165,7 @@ over Multiple Categories](http://yongfeng.me/attach/sigir16-chen.pdf)
 * 2018, ICDM, [A Reinforcement Learning Framework for Explainable Recommendation](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/main.pdf)
 * 2018, arXiv, [Adversarial Training Towards Robust Multimedia Recommender System](https://arxiv.org/pdf/1809.07062.pdf)
 * 2018, arXiv, [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf)
-
+* 2019, S&P,[HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666000a430.pdf)
 
 ## Malwares and Attacks
 * 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
