@@ -103,8 +103,7 @@
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
 * 2018, DEFCON Chian, [Scrutinizing the Weakness and Strength of AI System](https://aivillage.org/material/cn18-guo/slides1.pdf)
 * 2018, DEFCON USA, [Explanation: Alternative Path to Secure Deep Learning System](http://www.personal.psu.edu/wzg13/talks/defcon_usa_18.pdf) 
-* 2018, arXiv, [Explaining Explanations: An Approach to
-Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
+* 2018, arXiv, [Explaining Explanations: An Approach to Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)
 * 2018, IEEE Access, [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8466590)
 * 2018, arXiv, [On the Art and Science of Machine Learning Explanations A Discussion with Practical Recommendations and a Use Case](https://arxiv.org/pdf/1810.02909.pdf)
 * 2018, arXiv.[Verifiable Reinforcement Learning via Policy Extraction](https://papers.nips.cc/paper/7516-verifiable-reinforcement-learning-via-policy-extraction.pdf)
@@ -125,18 +124,20 @@ Evaluating Interpretability of Machine Learning](https://arxiv.org/pdf/1806.0006
 * 2015, ICML, [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://proceedings.mlr.press/v37/xuc15.pdf)
 
 
-## Interpretation/Explanation of RNN
+## Interpretation/Explanation of RNN/DT
 
 * 2018, arXiv, [Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection](https://arxiv.org/pdf/1803.04967.pdf)
 * 2018, ACM CCS, [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf)
+* 2018, NIPS, [Verifiable Reinforcement Learning via Policy Extraction](https://arxiv.org/pdf/1805.08328.pdf)
+* 2011, arXiv, [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/pdf/1011.0686.pdf)
+* 2010, PMLR,   [Efficient Reductions for Imitation Learning](https://ri.cmu.edu/pub_files/2010/5/Ross-AIStats10-paper.pdf)
 
 ## Interpretation/Explanation of Recommendation System
 
 * 2019, ACM TOIS, [MMALFM: Explainable Recommendation by Leveraging Reviews and Images](https://arxiv.org/pdf/1811.05318.pdf) (need update)
 * 2018, arXiv, [Visually Explainable Recommendation](https://arxiv.org/pdf/1801.10288.pdf)
 * 2018, arXiv, [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf)
-* 2016, SIGIR, [Learning to Rank Features for Recommendation
-over Multiple Categories](http://yongfeng.me/attach/sigir16-chen.pdf)
+* 2016, SIGIR, [Learning to Rank Features for Recommendation over Multiple Categories](http://yongfeng.me/attach/sigir16-chen.pdf)
 
 ## Interpretation/Explanation of Networks
 
