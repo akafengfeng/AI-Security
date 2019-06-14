@@ -89,7 +89,7 @@
 * 2014, ICTACT Journal on Soft Computing, [PERFORMANCE COMPARISON FOR INTRUSION DETECTION SYSTEM USING NEURAL NETWORK WITH KDD DATASET](http://ictactjournals.in/paper/IJSC_V4_I3_Paper_3-743to752.pdf)
 * 2013, SAICSIT, [Evaluating performance of long short-term memory recurrent neural networks on intrusion detection data](https://dl.acm.org/citation.cfm?id=2513490)
 * 2012, Neural Computing and Applications, [Intrusion detection using reduced-size RNN based on feature grouping](https://link.springer.com/article/10.1007/s00521-010-0487-0)
-* 2012, Computer & Security,[Toward developing a systematic approach to generate benchmark datasets for intrusion detection] (https://www.sciencedirect.com/science/article/pii/S0167404811001672)
+* 2012, Computer & Security, [Toward developing a systematic approach to generate benchmark datasets for intrusion detection](https://www.sciencedirect.com/science/article/pii/S0167404811001672)
 
 
 
