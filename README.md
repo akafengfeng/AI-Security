@@ -169,6 +169,7 @@
 * 2018, arXiv, [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf)
 * 2019, S&P,[HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666000a430.pdf)
 * 2019, arXiv, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891.pdf)
+* 2019, Usenix, [Data Mining Approaches for Intrusion Detection](https://www.usenix.org/legacy/publications/library/proceedings/sec98/full_papers/lee/lee.pdf)
 
 ## Malwares and Attacks
 * 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
