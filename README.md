@@ -97,8 +97,9 @@
 * 2014, KDD, [Comprehensible Classification Models – a position paper](https://www.kdd.org/exploration_files/V15-01-01-Freitas.pdf)
 * 2016, arXiv, [The mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 
-## General Interpretation/Explanation 
+## General Interpretation/Explanation \
 * 2019, arXiv.[Learning Interpretable Models with Causal Guarantees](https://arxiv.org/pdf/1901.08576.pdf)
+* 2018, S&P, [AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf)Í
 * 2018, arXiv, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891.pdf)
 * 2018, NIPS, [Explaining Deep Learning Models – A Bayesian Non-parametric Approach](http://papers.nips.cc/paper/7703-explaining-deep-learning-models-a-bayesian-non-parametric-approach.pdf)
 * 2018, arXiv, [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/pdf/1802.01933.pdf)
