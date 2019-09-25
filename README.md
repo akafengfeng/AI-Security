@@ -6,7 +6,7 @@
 * 2018, Ph.D. Thesis, [Flow-based Anomaly Detection in High-Speed Networks](https://research-repository.griffith.edu.au/bitstream/handle/10072/367890/Jadidi_2016_01Thesis.pdf?sequence=1)
 * 2010, S&P,[Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504793)
 * 2018, NDSS, [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://arxiv.org/pdf/1802.09089.pdf)
-* 2018, IEEE Pervasive Computing [N-BaIoT: Network-based Detection of IoT Botnet Attacks Using Deep Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490192)
+* 2018, IEEE Pervasive Computing, [N-BaIoT: Network-based Detection of IoT Botnet Attacks Using Deep Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8490192)
 * 2015, ACM CSUR, [Evaluating Computer Intrusion Detection Systems: A Survey of Common Practices](http://delivery.acm.org/10.1145/2810000/2808691/a12-milenkoski.pdf?ip=198.21.198.2&id=2808691&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1541188429_db4cbaa780f08fdefb0b08e67043a60e)
 * 2017, Computer Networks, [Toward a reliable anomaly-based intrusion detection in real-world environments](https://www.sciencedirect.com/science/article/pii/S1389128617303225)
 * 2012, Computer Communications, [Unsupervised Network Intrusion Detection Systems: Detecting the Unknown without Knowledge](https://www.sciencedirect.com/science/article/pii/S0140366412000266)
@@ -26,7 +26,7 @@
 
 * 2018, RAID, [Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00470-5_26.pdf)
 * 2018, IEEE Access, [Deep Learning-Based Intrusion Detection With Adversaries](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8408779)
-* 2018 CIKM, [Collaborative Alert Ranking for Anomaly Detection](https://dl.acm.org/citation.cfm?id=3272013)
+* 2018, CIKM, [Collaborative Alert Ranking for Anomaly Detection](https://dl.acm.org/citation.cfm?id=3272013)
 
 
 ## Deep Learning
@@ -171,7 +171,7 @@
 * 2019, S&P,[HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666000a430.pdf)
 * 2019, arXiv, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891.pdf)
 * 2019, Usenix, [Data Mining Approaches for Intrusion Detection](https://www.usenix.org/legacy/publications/library/proceedings/sec98/full_papers/lee/lee.pdf)
-
+* 2019, arXiv,[DEEP LEARNING FOR ANOMALY DETECTION: A SURVEY](https://arxiv.org/pdf/1901.03407.pdf)
 ## Malwares and Attacks
 * 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
 
