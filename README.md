@@ -2,7 +2,10 @@
 
 
 ## Intrusion Detection Systems
-
+* 2015, BICT,[A Deep Learning Approach for Network Intrusion Detection
+System](https://eudl.eu/pdf/10.4108/eai.3-12-2015.2262516)
+* 2018,IEEE Transaction [A Deep Learning Approach to Network
+Intrusion Detection](https://blogs.qub.ac.uk/netsec/wp-content/uploads/sites/153/2019/02/08264962.pdf)
 * 2018, Ph.D. Thesis, [Flow-based Anomaly Detection in High-Speed Networks](https://research-repository.griffith.edu.au/bitstream/handle/10072/367890/Jadidi_2016_01Thesis.pdf?sequence=1)
 * 2010, S&P,[Outside the Closed World:On Using Machine Learning For Network Intrusion Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5504793)
 * 2018, NDSS, [Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection](https://arxiv.org/pdf/1802.09089.pdf)
