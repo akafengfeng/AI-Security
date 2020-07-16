@@ -173,6 +173,7 @@ System](https://eudl.eu/pdf/10.4108/eai.3-12-2015.2262516)
 * 2019, arXiv, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891.pdf)
 * 2019, Usenix, [Data Mining Approaches for Intrusion Detection](https://www.usenix.org/legacy/publications/library/proceedings/sec98/full_papers/lee/lee.pdf)
 * 2019, arXiv,[DEEP LEARNING FOR ANOMALY DETECTION: A SURVEY](https://arxiv.org/pdf/1901.03407.pdf)
+* 2020, S&P, [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation] (https://people.cs.vt.edu/vbimal/publications/syntheticdata-sp20.pdf)
 ## Malwares and Attacks
 * 2018, S&P, [Understanding Linux Malware](http://www.s3.eurecom.fr/~yanick/publications/2018_oakland_linuxmalware.pdf)
 
