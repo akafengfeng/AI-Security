@@ -184,8 +184,4 @@ System](https://eudl.eu/pdf/10.4108/eai.3-12-2015.2262516)
 * 2016, Rapidity Networks, [Hajime: Analysis of a decentralized internet worm for IoT devices](http://www.cs.umd.edu/class/fall2017/cmsc818O/papers/hajime-rapidity.pdf)
 
 
-<iframe 
-  style="width:100%;height:auto;min-width:600px;min-height:400px;" 
-  src="https://star-history.com/embed?secret=Z2hwXzNNY2hqcDBMM1JhdUo3a3pQcjNGbzJCc1N3N2s0ZjFpM2tVMw==#akafengfeng/AI_Security&Date" frameBorder="0"
-  >  
-</iframe>
+
