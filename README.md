@@ -185,7 +185,7 @@ System](https://eudl.eu/pdf/10.4108/eai.3-12-2015.2262516)
 
 ## Star History
 
-[![Star History Chart](https://star-history.com/embed?secret=Z2hwXzNNY2hqcDBMM1JhdUo3a3pQcjNGbzJCc1N3N2s0ZjFpM2tVMw==#akafengfeng/AI_Security&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=akafengfeng/AI_Security&type=Date)](https://star-history.com/#akafengfeng/AI_Security&Date)
 
 
 
